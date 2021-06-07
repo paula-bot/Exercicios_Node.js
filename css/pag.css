@@ -1,0 +1,35 @@
+html, body{
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 70%;
+}
+
+h1{
+    margin: 2rem auto;
+    width: 28rem;
+    padding: 1rem;
+}
+
+div{
+    margin: 1rem auto;
+    width: 17rem;
+    padding: 1rem;
+    border-radius: .5rem;
+    color: rgb(6, 0, 7);
+}
+
+.celsius {
+    background-color: blueviolet;
+}
+
+.fahrenheit {
+    background-color: blueviolet;
+}
+
+.lado{
+    background-color: blueviolet;
+}
+
+.tipo{
+    background-color: blueviolet;
+}
